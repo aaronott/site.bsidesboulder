@@ -9,5 +9,8 @@
     "date": "",
     "start_time": "",
     "end_time": "",
-    "keynote": false
+    "keynote": false,
+    "accepted": false,
+    "email":"",
+    "author_img": ""
 }
