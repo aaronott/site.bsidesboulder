@@ -5,9 +5,12 @@
         {{ partial "css" .}}
     </head>
     <body>
-        {{ partial "header" .}}
-
-        {{ partial "footer" . }}
-        {{ partial "scripts" . }}
+        <div class="container">
+            {{ partial "header" .}}
+            {{ partial "navigation" .}}
+            {{ .Content }}
+            {{ partial "footer" . }}
+            {{ partial "scripts" . }}
+        </div>
     </body>
 </html>
