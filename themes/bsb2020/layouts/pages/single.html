@@ -2,12 +2,12 @@
     <head>
         {{ partial "head" . }}
         {{ partial "mobilehead" . }}
-        {{ partial "css" .}}
+        {{ partial "css" . }}
     </head>
     <body>
+        {{ partial "navigation" .}}
         <div class="container">
             {{ partial "header" .}}
-            {{ partial "navigation" .}}
             {{ .Content }}
             {{ partial "footer" . }}
             {{ partial "scripts" . }}
