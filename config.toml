@@ -32,3 +32,19 @@ theme = "bsb2020"
     pre = "<i class='fa fa-heart'></i>"
     url = "/sponsors/"
     weight = 100
+
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = 100
+
+
+[[menu.main]]
+    identifier = "callforlogo"
+    name = "Call for Logo"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/callforlogo/"
+    weight = 100
