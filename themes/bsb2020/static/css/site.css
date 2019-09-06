@@ -49,3 +49,9 @@ footer {
     background-color: white;
 }
 
+.form {
+    width: 70%;
+    padding: 15px;
+    margin: auto;
+    background-color: lightgray;
+}

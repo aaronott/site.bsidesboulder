@@ -18,3 +18,7 @@ time being if you are interested in helping out with the project, we invite you
 to join the Boulder InfoSec Slack
 [link](https://join.slack.com/t/boulderinfosec/shared_invite/enQtNDI0NTk0MDI4MDk3LTZjNDY0NmJkZjE3ZGRkMTU0Y2Q2YWRiYTJjN2NjMjMzZGU3MWIwMGQ0OWRjYTQ5YWI5MzcxYmYzNWY5NzkwZjg),
 once you are registered feel free to join the channel #bsidesboulder.
+
+## Get Involved
+
+{{< volunteerform >}}
