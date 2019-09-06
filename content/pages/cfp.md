@@ -5,4 +5,7 @@ draft: false
 url: "/cfp/"
 ---
 
-# Call for Papers
+## Call for Papers
+
+Currently we are not accepting CFP Responses yet, but we will begin that process
+shortly.

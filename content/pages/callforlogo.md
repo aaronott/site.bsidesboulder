@@ -5,7 +5,7 @@ draft: false
 url: "/callforlogo/"
 ---
 
-# Q: What kind of web developer would use ascii art for a logo
+## Q: What kind of web developer would use ascii art for a logo
 
 A: one without graphic design skills. We are currently looking for submissions
 from artist for our logo since we don't have one already.

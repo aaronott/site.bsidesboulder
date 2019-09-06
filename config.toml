@@ -5,46 +5,38 @@ theme = "bsb2020"
 
 [menu]
 [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/home/"
-    weight = -110
-
-[[menu.main]]
     identifier = "callforpapers"
     name = "Call for Papers"
     pre = "<i class='fa fa-heart'></i>"
     url = "/cfp/"
-    weight = 0
-
-
+    weight = -100
 [[menu.main]]
     identifier = "vols"
     name = "Volunteers"
     pre = "<i class='fa fa-heart'></i>"
     url = "/volunteers/"
-    weight = 0
-
+    weight = -100
 [[menu.main]]
     identifier = "sponsors"
     name = "Sponsors"
     pre = "<i class='fa fa-heart'></i>"
     url = "/sponsors/"
-    weight = 100
-
-
-[[menu.main]]
-    identifier = "about"
-    name = "About"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
-    weight = 100
-
-
+    weight = -100
 [[menu.main]]
     identifier = "callforlogo"
     name = "Call for Logo"
     pre = "<i class='fa fa-heart'></i>"
     url = "/callforlogo/"
-    weight = 100
+    weight = -100
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = 0
+[[menu.main]]
+    identifier = "codeofconduct"
+    name = "Code of Conduct"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/codeofconduct/"
+    weight = 0
