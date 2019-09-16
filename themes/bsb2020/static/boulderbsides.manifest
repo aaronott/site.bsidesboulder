@@ -1,0 +1,15 @@
+{
+  "background_color": "gray",
+  "description": "Home Page of Boulder BSides",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/bbs-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Boulder BSides",
+  "short_name": "Boulder BSides",
+  "start_url": "/home/"
+}
