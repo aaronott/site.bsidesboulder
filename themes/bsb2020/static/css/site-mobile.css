@@ -1,9 +1,9 @@
 body {
     background-color: gray;
-    background-image: url("/img/background.jpg");
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Open Sans', sans-serif;
+    width: fit-content;
 }
 
 h1 {
@@ -37,9 +37,9 @@ footer {
 }
 
 .logo {
-    font-size: 10pt;
+    font-size: 5pt;
     font-family: 'Courier New', Courier, monospace;
-    line-height: 10pt;
+    line-height: 5pt;
     white-space: pre;
     text-align: center;
     margin-bottom: 40px;
@@ -56,13 +56,6 @@ footer {
     background-color: lightgray;
 }
 
-@media only screen and (max-width: 768px) {
-    .logo {
-        font-size: 7pt;
-        font-family: 'Courier New', Courier, monospace;
-        line-height: 7pt;
-        white-space: pre;
-        text-align: center;
-        margin-bottom: 40px;
-    }
+.navbar-brand {
+        font-size: 1.5em;
 }
