@@ -4,6 +4,7 @@ body {
     background-attachment: fixed;
     font-family: 'Open Sans', sans-serif;
     width: fit-content;
+    margin: auto auto;
 }
 
 h1 {
