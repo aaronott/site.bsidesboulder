@@ -1,10 +1,12 @@
 @font-face {
     font-family: 'Open Sans';
-    src: url('/fonts/Open_Sans/OpenSans-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('/fonts/Open_Sans/OpenSans-Regular.ttf')  format('truetype'),
+         url('/fonts/Open_Sans/OpenSans-Regular.woff')  format('woff'); /* Safari, Android, iOS */
 }
 @font-face {
     font-family: 'Permanent Marker';
-    src: url('/fonts/Permanent_Marker/PermanentMarker-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('/fonts/Permanent_Marker/PermanentMarker-Regular.ttf')  format('truetype'),
+         url('/fonts/Permanent_Marker/PermanentMarker-Regular.woff')  format('woff'); /* Safari, Android, iOS */
 }
 
 body {
