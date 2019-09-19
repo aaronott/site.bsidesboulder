@@ -17,6 +17,8 @@ infromation about the confrence and our planning as possible.
 * Vice President - Tyler
 * Secretary / Web Master - James 
 * Call for Papers - Ubran
+* Volunteer - Jess
+* Volunteer - Will
 * Volunteer Director - Robbyn
 
 ## Meeting Notes
