@@ -18,22 +18,25 @@ h3 {
     font-family: 'Permanent Marker', cursive;
 }
 
-p {
-    font-size: 24px;
+h6 {
+    font-family: 'Permanent Marker', sans-serif;
 }
 
-footer {
-    margin-top: 30px;
-    padding: 20px;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
-    background-color: lightgray;
+p {
+    font-size: 24px;
 }
 
 .container {
     background-color: white;
     margin-top: 20px;
+    margin-bottom: 1rem;
     opacity: .9;
+    padding-bottom: 3rem;
+}
+
+footer {
+    background-color: whitesmoke;
+    padding: 2rem;
 }
 
 .logo {
@@ -65,4 +68,12 @@ footer {
         text-align: center;
         margin-bottom: 40px;
     }
+}
+
+.font-small {
+    font-size: .6em !important;
+}
+
+.footer-link {
+    font-size: .8em !important;
 }

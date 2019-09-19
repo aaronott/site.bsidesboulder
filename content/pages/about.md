@@ -22,3 +22,5 @@ for the next-big-thing are happening.
 
 ## About the Team
 
+We are doing our best to make sure that everyone has the infromation that they
+need.  Feel free to reach out to the team via the Transparency page.

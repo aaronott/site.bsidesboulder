@@ -35,11 +35,8 @@ p {
 }
 
 footer {
-    margin-top: 30px;
-    padding: 20px;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
-    background-color: lightgray;
+    background-color: whitesmoke;
+    padding: 2rem;
 }
 
 .container {
@@ -70,4 +67,12 @@ footer {
 
 .navbar-brand {
         font-size: 1.5em;
+}
+
+.font-small {
+    font-size: .6em !important;
+}
+
+.footer-link {
+    font-size: .8em !important;
 }
