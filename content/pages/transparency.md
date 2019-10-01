@@ -9,14 +9,14 @@ url: "/transparency/"
 
 To make sure that we are keeping to the highest standards and keeping everything
 above the line, we are going to make an effort to publish as much of the
-infromation about the confrence and our planning as possible.
+information about the conference and our planning as possible.
 
 ## Team
 
 * President - Aaron 
 * Vice President - Tyler
 * Secretary / Web Master - James 
-* Call for Papers - Ubran
+* Call for Papers - Urban
 * Volunteer - Jess
 * Volunteer - Will
 * Volunteer Director - Robbyn
