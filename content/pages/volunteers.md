@@ -16,7 +16,7 @@ successful conference we need to know who you are.
 Soon we will have a form for getting infromation more streamlined but for the
 time being if you are interested in helping out with the project, we invite you
 to join the Boulder InfoSec Slack
-[link](https://join.slack.com/t/boulderinfosec/shared_invite/enQtNDI0NTk0MDI4MDk3LTZjNDY0NmJkZjE3ZGRkMTU0Y2Q2YWRiYTJjN2NjMjMzZGU3MWIwMGQ0OWRjYTQ5YWI5MzcxYmYzNWY5NzkwZjg),
+[link](https://join.slack.com/t/boulderinfosec/shared_invite/enQtNDI0NTk0MDI4MDk3LTI1NmZlYjk5MmE0ZDAxZThkMzExMmVkYTMzODQ0MzEyY2QxYzk4ZjdjOWQzNTNiZTVmMWFkNTQ1YTUzOTA2M2M),
 once you are registered feel free to join the channel #bsidesboulder.
 
 ## Get Involved
