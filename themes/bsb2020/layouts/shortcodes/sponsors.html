@@ -1,0 +1,11 @@
+<div class="sponsors-list">
+
+<div class="sponsor-level">
+    <div class="sponsor-leading-level-heading">Leading Level</div>
+    {{ range $.Site.Data.sponsors }}
+       {{ partial "sponsor-leading" . }}
+    {{ end }}
+</div>
+
+
+</div>
