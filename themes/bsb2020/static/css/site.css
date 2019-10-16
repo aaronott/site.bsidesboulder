@@ -77,3 +77,44 @@ footer {
 .footer-link {
     font-size: .8em !important;
 }
+.news-border {
+    width: 50%;
+    float: right;
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.news-heading {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.5em;
+}
+.news-article-title {
+    font-weight: bolder;
+    font-size: 1em;
+}
+.news-article-date {
+    font-size: .65em;
+}
+.news-article-byline {
+    font-size:  .65em;
+}
+
+.news-article-body {
+    font-size: .8em;
+    font-weight: bold;
+}
+
+.sponsor-leading-level-heading {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 3em;
+    text-align: center;
+}
+
+.sponsor {
+    text-align: center;
+    margin: auto;
+}
+
+.sponsor-level {
+    margin-bottom: 40px;
+} 

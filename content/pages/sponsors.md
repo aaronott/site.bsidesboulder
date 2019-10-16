@@ -17,7 +17,7 @@ get us to that point.
 
 Want to know more about what it means to be a sponsor for BSides Boulder?
 Please download our packet...  If there are any questions please feel free to
-send an email to [info@bsidesboulder.org](mailto:info@bsidesboulder.org)
+send an email to [info@bsidesboulder.org](mailto:info@bsidesboulder.org).
 
 [Sponsorship Packet](/docs/BSidesBoulder_Sponsorship_Kit_2019.pdf)
 

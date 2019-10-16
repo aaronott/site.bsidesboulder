@@ -11,6 +11,7 @@ Good news everybody....
 
 We are pleased to announce that BSides is officially coming to Boulder, Co. We
 have secured a location (courtesy of CU Boulder), are we are looking forward to 
+putting on a great event.
 
 {{< news >}}
 
@@ -31,9 +32,7 @@ the community and will be evaluated by the CFP (Call for Paper) Committee.
 
 ## Where
 
-We are currently looking at some options for a venue, we will have more
-information about attendance size and other details when we have that
-information.
+BSides Boulder will be taking place on the campus of CU Boulder.
 
 ## Why
 
@@ -46,8 +45,7 @@ as a community, showcase some talent, and learn from each other.
 
 ## When
 
-We are currently targeting April 2020 for the event and we should have more
-information about this in the days to come.
+BSides Boulder will be happening Saturday, April 18, 2020.
 
 ## Want to Help ?
 
