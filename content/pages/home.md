@@ -5,6 +5,15 @@ draft: false
 url: "/home/"
 ---
 
+## BSides is coming to Boulder
+
+Good news everybody....
+
+We are pleased to announce that BSides is officially coming to Boulder, Co. We
+have secured a location (courtesy of CU Boulder), are we are looking forward to 
+
+{{< news >}}
+
 ## Welcome
 
 We are in the process of getting the initial foundations in place to bring

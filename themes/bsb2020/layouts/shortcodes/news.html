@@ -1,0 +1,10 @@
+<div class="news-border">
+    <div class="news-heading">
+        Latest Updates
+    </div>
+    <div class="news-articles">
+        {{ range $.Site.Data.news }}
+            {{ partial "news-item" . }}
+        {{ end }}
+    </div>
+</div>
