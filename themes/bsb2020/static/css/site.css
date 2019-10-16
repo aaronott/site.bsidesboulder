@@ -91,6 +91,7 @@ footer {
 .news-article-title {
     font-weight: bolder;
     font-size: 1em;
+    margin-top: 10px;
 }
 .news-article-date {
     font-size: .65em;
@@ -101,7 +102,10 @@ footer {
 
 .news-article-body {
     font-size: .8em;
-    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2em;
+    white-space: pre-wrap;
+    margin-top: 10px;
 }
 
 .sponsor-leading-level-heading {
