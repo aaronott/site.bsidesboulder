@@ -122,3 +122,10 @@ footer {
 .sponsor-level {
     margin-bottom: 40px;
 } 
+
+li.nav-social {
+    list-style-type: none;
+    float: right;
+    font-size: 1.5em;
+    margin-left: .5em;
+}
