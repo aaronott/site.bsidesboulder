@@ -11,6 +11,17 @@ BSides Boulder is looking for people who would like to see the event become the
 best that it can, and to make that happen.  But before we can launch a
 successful conference we need to know who you are.
 
+We need help in the following areas:
+
+* Audio / Visual
+* Call for Papers
+* Graphic Design
+* Marketing
+* Operations
+* Social Media
+* Sponsor Services
+* Swag
+
 ## Get Connected
 
 Soon we will have a form for getting infromation more streamlined but for the
