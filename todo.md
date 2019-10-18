@@ -1,3 +1,9 @@
 # Todo
 
-- [ ] Migrate to a get involved dropdown
+* [ ] Artwork Needed
+  * [ ] Facebook Event Art
+  * [ ] Facebook Event Background
+  * [ ] Flyers
+  * [ ] Logo
+  * [ ] Badge Design
+  * [ ] 
