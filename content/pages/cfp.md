@@ -7,5 +7,32 @@ url: "/cfp/"
 
 ## Call for Papers
 
-Currently we are not accepting CFP Responses yet, but we will begin that process
-shortly.
+Thank you for your interest in participating in the first BSides Boulder as a speaker!
+
+The BSides Boulder 2020 conference is accepting submissions for 50-minute
+presentations, including time for questions and answers. All topics related to
+computer and information security are welcome, including:
+
+* Vulnerability research
+* Reverse engineering
+* Exploitation
+* Malware analysis
+* Application security
+* Game hacking
+* OS internals
+* Social engineering
+* Cyber-physical systems
+* Cryptography
+* CTF stories
+* A cool thing you made
+
+Please provide a summary paper (one to three pages) describing the purpose of
+your talk, technical information, and anything else you'd like to share with the
+reviewers. Submitted papers will be reviewed and ranked by multiple reviewers in
+the selection process.
+
+## Important Dates
+
+* CFP opens, 2019 Nov 4
+* CFP closes, 2020 Feb 10
+* Decision notices sent, 2020 Mar 9
