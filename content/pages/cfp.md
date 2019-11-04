@@ -7,6 +7,8 @@ url: "/cfp/"
 
 ## Call for Papers
 
+[Submit A Talk](https://pretalx.bsidesboulder.org/bsidesboulder2020/)
+
 Thank you for your interest in participating in the first BSides Boulder as a speaker!
 
 The BSides Boulder 2020 conference is accepting submissions for 50-minute
@@ -36,3 +38,5 @@ the selection process.
 * CFP opens, 2019 Nov 4
 * CFP closes, 2020 Feb 10
 * Decision notices sent, 2020 Mar 9
+
+[Submit A Talk](https://pretalx.bsidesboulder.org/bsidesboulder2020/)
