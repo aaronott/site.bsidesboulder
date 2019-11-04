@@ -11,6 +11,12 @@ theme = "bsb2020"
     url = "/cfp/"
     weight = -100
 [[menu.main]]
+    identifier = "schedule"
+    name = "Schedule"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/schedule/"
+    weight = -100
+[[menu.main]]
     identifier = "vols"
     name = "Volunteers"
     pre = "<i class='fa fa-heart'></i>"
