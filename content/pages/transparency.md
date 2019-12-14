@@ -16,7 +16,7 @@ information about the conference and our planning as possible.
 * President - Aaron
 * Vice President - Tyler
 * Secretary / Web Master - James
-* Call for Papers - ?
+* Call for Papers - Matt
 * Volunteer - Jess
 * Volunteer - Will
 * Volunteer Director - Robbyn
