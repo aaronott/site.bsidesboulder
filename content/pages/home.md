@@ -52,4 +52,4 @@ your help.  Check out [Volunteer Page](/volunteers/)
 
 {{< news >}}
 
-{{< twitter twitterfeed="https://twitter.com/BSidesBoulder?ref_src=twsrc%5Etfw" >}}
+{{< twitter >}}
