@@ -1,11 +1,18 @@
 <div class="sponsor sponsor-leading">
     <div class="sponsor-image">
-        <img src="{{ .sponsor.image }}" class="sponsor-image" />
+        <img src="{{ .sponsor.image }}" class="sponsor-img" />
     </div>
     <div class="sponsor-name">
         {{ .sponsor.name }}
     </div>
     <div class="sponsor-media">
-        <a href="{{ .sponsor.website }}">Website</a>
+        <div>
+            <a href="{{ .sponsor.website }}">Website</a>
+        </div>
+        <div>
+            <a href="http://www.twitter.com/{{ .sponsor.twitter }}">Twitter</a>
+        </div>
+        
+        
     </div>
 </div>

@@ -1,25 +1,35 @@
 <div class="sponsors-list">
     <div class="sponsor-level">
         <div class="sponsor-leading-level-heading">Leading Level</div>
+        <div class="sponsor-list">
         {{ range $.Site.Data.sponsors }}
-            {{ if eq .sponsor.level "leading" }}
-                {{ partial "sponsor" . "leading" }}
+        {{ if eq .sponsor.level "leading" }}
+                <div class="sponsor-card">
+                    {{ partial "sponsor" . "leading" }}
+                </div>
             {{ end }}
         {{ end }}
+        </div>
     </div>
     <div class="sponsor-level">
         <div class="sponsor-leading-level-heading">Contributing Level</div>
+        <div class="sponsor-list">
         {{ range $.Site.Data.sponsors }}
             {{ if eq .sponsor.level "contributing" }}
+            <div class="sponsor-card">
                 {{ partial "sponsor" . "contributing" }}
+            </div>
             {{ end }}
         {{ end }}
+    </div>
     </div>
     <div class="sponsor-level">
         <div class="sponsor-leading-level-heading">Supporting Level</div>
         {{ range $.Site.Data.sponsors }}
             {{ if eq .sponsor.level "supporting" }}
+            <div class="sponsor-card">
                 {{ partial "sponsor" . "supporting" }}
+            </div>
             {{ end }}
         {{ end }}
     </div>
