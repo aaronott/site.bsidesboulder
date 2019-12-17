@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "bsb2020"
 
+[params]
+    twitterfeed = "https://twitter.com/BSidesBoulder?ref_src=twsrc%5Etfw"
+
 [menu]
 [[menu.main]]
     identifier = "callforpapers"
