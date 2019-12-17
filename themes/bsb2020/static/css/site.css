@@ -29,7 +29,7 @@ p {
 .container {
     background-color: white;
     margin-top: 20px;
-    margin-bottom: 1rem;
+    margin-bottom: 180px;
     opacity: .9;
     padding-bottom: 3rem;
 }
@@ -37,6 +37,10 @@ p {
 footer {
     background-color: whitesmoke;
     padding: 2rem;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
 }
 
 .logo {

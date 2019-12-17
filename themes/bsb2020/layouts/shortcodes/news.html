@@ -3,7 +3,7 @@
         Latest Updates
     </div>
     <div class="news-articles">
-        {{ range sort $.Site.Data.news "date" "desc" }}
+        {{ range first 5 (sort $.Site.Data.news "id" "desc") }}
             {{ partial "news-item" . }}
         {{ end }}
     </div>
