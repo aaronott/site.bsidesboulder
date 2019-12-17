@@ -129,8 +129,11 @@ footer {
 } 
 
 .twitter-wrapper {
-    width: 50%;
-    border: 1px solid black;
+    width: 30%;
+    border: 1px solid lightgray;
+    padding: 3px;
+    margin-left: 5px;
+    float: right;
 }
 
 li.nav-social {

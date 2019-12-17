@@ -5,6 +5,8 @@ draft: false
 url: "/home/"
 ---
 
+{{< twitter >}}
+
 # BSides is coming to Boulder
 
 Good news everybody....
@@ -17,6 +19,8 @@ putting on a great event.
 
 We are in the process of getting the initial foundations in place to bring
 Security BSides (or just "BSides" for short) to Boulder, Co.
+
+
 
 ## Who
 
@@ -49,7 +53,3 @@ BSides Boulder will be happening Saturday, April 18, 2020.
 
 If you are interested in helping out to make this become a reality... we need
 your help.  Check out [Volunteer Page](/volunteers/)
-
-{{< news >}}
-
-{{< twitter >}}
