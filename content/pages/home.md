@@ -13,8 +13,6 @@ We are pleased to announce that BSides is officially coming to Boulder, Co. We
 have secured a location (courtesy of CU Boulder), are we are looking forward to 
 putting on a great event.
 
-{{< news >}}
-
 ## Welcome
 
 We are in the process of getting the initial foundations in place to bring
@@ -51,3 +49,7 @@ BSides Boulder will be happening Saturday, April 18, 2020.
 
 If you are interested in helping out to make this become a reality... we need
 your help.  Check out [Volunteer Page](/volunteers/)
+
+{{< news >}}
+
+{{< twitter >}}
