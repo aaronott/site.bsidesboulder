@@ -24,7 +24,7 @@ We need help in the following areas:
 
 ## Get Connected
 
-Soon we will have a form for getting infromation more streamlined but for the
+Soon we will have a form for getting information more streamlined but for the
 time being if you are interested in helping out with the project, we invite you
 to join the Boulder InfoSec Slack
 [link](https://join.slack.com/t/boulderinfosec/shared_invite/enQtNDI0NTk0MDI4MDk3LTI1NmZlYjk5MmE0ZDAxZThkMzExMmVkYTMzODQ0MzEyY2QxYzk4ZjdjOWQzNTNiZTVmMWFkNTQ1YTUzOTA2M2M),
