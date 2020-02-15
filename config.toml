@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "bsb2020"
+theme = "bsb2020v2"
 
 [params]
     twitterfeed = "https://twitter.com/BSidesBoulder?ref_src=twsrc%5Etfw"
