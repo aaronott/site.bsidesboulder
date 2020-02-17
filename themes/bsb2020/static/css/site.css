@@ -131,6 +131,7 @@ footer {
 .sponsor-list {
     display: flex;
     flex-direction: row;
+    height: 300px;
 }
 
 .sponsor-image {
