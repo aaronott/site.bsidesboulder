@@ -7,31 +7,11 @@ url: "/cfp/"
 
 ## Call for Papers
 
-[Submit A Talk](https://pretalx.bsidesboulder.org/bsidesboulder2020/)
+**Our Call for Papers has closed**
 
-Thank you for your interest in participating in the first BSides Boulder as a speaker!
+Thanks you for all of your submissions.
 
-The BSides Boulder 2020 conference is accepting submissions for 50-minute
-presentations, including time for questions and answers. All topics related to
-computer and information security are welcome, including:
-
-* Vulnerability research
-* Reverse engineering
-* Exploitation
-* Malware analysis
-* Application security
-* Game hacking
-* OS internals
-* Social engineering
-* Cyber-physical systems
-* Cryptography
-* CTF stories
-* A cool thing you made
-
-Please provide a summary paper (one to three pages) describing the purpose of
-your talk, technical information, and anything else you'd like to share with the
-reviewers. Submitted papers will be reviewed and ranked by multiple reviewers in
-the selection process.
+See you there!
 
 ## Important Dates
 
@@ -39,4 +19,4 @@ the selection process.
 * CFP closes, 2020 Feb 10
 * Decision notices sent, 2020 Mar 9
 
-[Submit A Talk](https://pretalx.bsidesboulder.org/bsidesboulder2020/)
+[Speaker Login](https://pretalx.bsidesboulder.org/bsidesboulder2020/)
