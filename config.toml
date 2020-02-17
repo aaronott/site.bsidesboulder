@@ -10,43 +10,49 @@ theme = "bsb2020v2"
 [[menu.main]]
     identifier = "home"
     name = "Home"
-    pre = "<i class='fa fa-heart'></i>"
+    pre = "<i class='fa fa-home'></i>"
     url = "/home/"
     weight = -200
 [[menu.main]]
     identifier = "callforpapers"
     name = "Call for Papers"
-    pre = "<i class='fa fa-heart'></i>"
+    pre = "<i class='fa fa-scroll'></i>"
     url = "/cfp/"
     weight = -100
 [[menu.main]]
     identifier = "schedule"
     name = "Schedule"
-    pre = "<i class='fa fa-heart'></i>"
+    pre = "<i class='fa fa-calendar-alt'></i>"
     url = "/schedule/"
+    weight = -100
+[[menu.main]]
+    identifier = "speakers"
+    name = "Speakers"
+    pre = "<i class='fa fa-user-secret'></i>"
+    url = "/Speakers/"
     weight = -100
 [[menu.main]]
     identifier = "workshops"
     name = "Workshops"
-    pre = "<i class='fa fa-heart'></i>"
+    pre = "<i class='fa fa-network-wired'></i>"
     url = "/workshops/"
     weight = -100
 [[menu.main]]
     identifier = "vols"
     name = "Volunteers"
-    pre = "<i class='fa fa-heart'></i>"
+    pre = "<i class='fa fa-people-carry'></i>"
     url = "/volunteers/"
     weight = -100
 [[menu.main]]
     identifier = "sponsors"
     name = "Sponsors"
-    pre = "<i class='fa fa-heart'></i>"
+    pre = "<i class='fa fa-hands-helping'></i>"
     url = "/sponsors/"
     weight = -100
 [[menu.main]]
     identifier = "about"
     name = "About"
-    pre = "<i class='fa fa-heart'></i>"
+    pre = "<i class='fa fa-address-card'></i>"
     url = "/about/"
     weight = 0
 [[menu.main]]
@@ -55,3 +61,9 @@ theme = "bsb2020v2"
     pre = "<i class='fa fa-heart'></i>"
     url = "/codeofconduct/"
     weight = 0
+#[[menu.main]]
+#    identifier = "thanks"
+#    name = "Special Thanks"
+#    pre = "<i class='fa fa-heart'></i>"
+#    url = "/thanks/"
+#    weight = 0

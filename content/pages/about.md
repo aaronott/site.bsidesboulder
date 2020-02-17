@@ -1,11 +1,9 @@
 ---
-title: "About"
+title: "About BSides Boulder"
 date: 2019-08-30T17:39:48-06:00
 draft: false
 url: "/about/"
 ---
-
-## About BSides Boulder
 
 In case you hadn't heard we are attempting to bring the BSides Conference to
 Boulder, Co.

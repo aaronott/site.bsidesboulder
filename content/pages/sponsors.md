@@ -5,8 +5,6 @@ draft: false
 url: "/sponsors/"
 ---
 
-## Sponsors
-
 {{< sponsors >}}
 
 ## Interested in becoming a Sponsor

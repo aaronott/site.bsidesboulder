@@ -5,8 +5,6 @@ draft: false
 url: "/transparency/"
 ---
 
-# Transparency
-
 To make sure that we are keeping to the highest standards and keeping everything
 above the line, we are going to make an effort to publish as much of the
 information about the conference and our planning as possible.

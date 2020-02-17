@@ -1,0 +1,31 @@
+<h1>Leading Sponsors</h1>
+<div class="container sponsor-container">
+    {{ range $.Site.Data.sponsors }}
+    {{ if eq .sponsor.level "leading" }}
+
+        {{ partial "sponsor" . "leading" }}
+
+    {{ end }}
+    {{ end }}
+</div>
+<h2>Contributing Sponsors</h2>
+<div class="container sponsor-container">
+
+    {{ range $.Site.Data.sponsors }}
+    {{ if eq .sponsor.level "contributing" }}
+
+    {{ partial "sponsor" . "contributing" }}
+
+    {{ end }}
+    {{ end }}
+</div>
+<h3>Supporting Sponsorss</h3>
+<div class="container sponsor-container">
+    {{ range $.Site.Data.sponsors }}
+    {{ if eq .sponsor.level "supporting" }}
+
+    {{ partial "sponsor" . "supporting" }}
+
+    {{ end }}
+    {{ end }}
+</div>

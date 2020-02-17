@@ -5,8 +5,6 @@ draft: false
 url: "/schedule/"
 ---
 
-## Schedule
-
 We are attempting to create an environment for security professionals of every
 level, to do this we are going to do our best to balance the tracks so that we
 have a good blend of different skill levels and topics.
