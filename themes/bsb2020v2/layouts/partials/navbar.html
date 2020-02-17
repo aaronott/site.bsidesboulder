@@ -1,0 +1,26 @@
+<div id="sidenav" uk-offcanvas="flip: true" class="uk-offcanvas nav-bar-background">
+    <div class="uk-offcanvas-bar">
+            <ul class="uk-nav">
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+    </div>
+</div>    
+
+<nav class="uk-navbar-container" uk-navbar>
+    <div class="uk-navbar-left">
+        <div class="uk-container">
+            <img src="/img/BSidesLogo.png" height="75" width="100"/>
+        </div>
+
+    </div>
+    <div class="uk-navbar-right">
+        <ul class="uk-navbar-nav">
+            <li class="nav-social"><a href="https://www.facebook.com/groups/511752762995313/"><i class="fab fa-facebook"></i></a></li>
+            <li class="nav-social"><a href="https://boulderinfosec.slack.com"><i class="fab fa-slack"></i></a></li>
+            <li class="nav-social"><a href="https://twitter.com/bsidesboulder"><i class="fab fa-twitter"></i></a></li>
+            <a class="uk-navbar-toggle" uk-toggle="target: #sidenav"uk-navbar-toggle-icon></a>        
+        </ul>
+    </div>
+</nav>

@@ -8,6 +8,12 @@ theme = "bsb2020v2"
 
 [menu]
 [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/home/"
+    weight = -200
+[[menu.main]]
     identifier = "callforpapers"
     name = "Call for Papers"
     pre = "<i class='fa fa-heart'></i>"
