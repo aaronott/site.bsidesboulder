@@ -1,7 +1,7 @@
 name: Docker Image Cleanup
 on:
   schedule:
-    - cron:  '41 * * * *'
+    - cron:  '0/5 * * * *'
 jobs:
   cleanup-one-old-or-with-the-wrong-name-tag:
     runs-on: ubuntu-latest
