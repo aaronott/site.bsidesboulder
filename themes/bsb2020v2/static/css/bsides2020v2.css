@@ -8,6 +8,7 @@ body {
     background-color: #e40505;
     padding: 10px;
     margin-top: 50px;
+    margin-left: 20px;
 }
 
 .uk-container {
@@ -63,4 +64,19 @@ body {
     float: left;
     margin-top: 6px;
     padding-right: 5px;
+}
+
+
+/* Footer */
+
+.footer {
+    background-color: #333;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    height: 200px;
+}
+
+.footer-card {
+    color: whitesmoke !important;
 }
