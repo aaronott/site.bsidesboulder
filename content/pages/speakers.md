@@ -5,4 +5,12 @@ draft: false
 url: "/Speakers/"
 ---
 
-We will have more infromation about our speakers coming soon.
+We are please to welcome the following speakers to the Inaugral BSidesBoulder.
+
+# Keynote Speakers
+
+{{< keynote_speakers >}}
+
+# Speakers
+
+{{< speakers >}}
