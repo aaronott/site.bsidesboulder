@@ -80,3 +80,13 @@ body {
 .footer-card {
     color: whitesmoke !important;
 }
+
+/* Speakers */
+.speaker-title {
+    font-weight: bolder;
+}
+
+.speaker-bio {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

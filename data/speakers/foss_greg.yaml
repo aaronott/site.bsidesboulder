@@ -1,8 +1,10 @@
 speaker:
   first_name: Greg
   last_name: Foss
-  twitter:
-  bio:
-  session_title:
-  photo:
+  title: Senior Threat Researcher
+  company: VMWare Carbon Black
+  twitter: Heinzarelli
+  bio: "Greg Foss is a Senior Threat Researcher with VMware Carbon Black's Threat Analysis Unit (TAU) where he focuses on threat hunting, adversarial attack emulation, detection engineering, security efficacy, and bypass analytics across the diverse product line. In previous roles, Greg led a Threat Research team, built and ran a Global Security Operations program, consulted in penetration testing, and worked as a security analyst for the federal government. Greg is a very active member of the Denver information security community who loves to give back and support the industry."
+  session_title: "The Future of Destructive Malware"
+  photo: greg.foss.carbonblack.png
   keynote_speaker: False

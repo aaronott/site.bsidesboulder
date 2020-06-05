@@ -1,8 +1,10 @@
 speaker:
   first_name: James
   last_name: McKee
-  twitter:
-  bio:
-  session_title:
-  photo:
+  title: Global Developer Security Program Manager
+  company: Trimble
+  twitter: punkcoder
+  bio: "James is a developer and security advocate whose biggest responsibility is leading developer security practices. He sets the standards and procedures for how the practice operates, and leads all client engagement efforts with regard to security. He also takes the lead in making sure that company staff (developers specifically) are properly trained and following best practices with regard to application security.  In a past life James was responsible for Architecting and developing solutions on multi-million implementation efforts. Key clients included the Eight Fortune 500 companies (Seven in the Fortune 100), as well as several well known non-profits and leaders in their industries. Vertices served included healthcare, transportation, financial services, retail, insurance, and energy."
+  session_title: "Begining Pentesting Android Application"
+  photo: mckee_james.jpg
   keynote_speaker: False
