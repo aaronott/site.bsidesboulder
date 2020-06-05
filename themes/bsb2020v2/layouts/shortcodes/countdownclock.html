@@ -1,4 +1,3 @@
-<h1>Time Till BSides Boulder 2020</h1>
 
 <script>
     setInterval(function() {
@@ -10,7 +9,7 @@
         var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
         var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
         var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
-
+        
         document.getElementById("idDays").innerHTML = days;
         document.getElementById("idHours").innerHTML = hours;
         document.getElementById("idMin").innerHTML = minutes;
@@ -18,7 +17,11 @@
 </script>
 
 <div class="countdown-clock">
-    <span id="idDays"></span> Days
-    <span id="idHours"></span> Hours
-    <span id="idMin"></span> Minutes
+    <h1>Time Till BSides Boulder 2020</h1>
+    <div class="clock">
+        <span id="idDays"></span> Days
+        <span id="idHours"></span> Hours
+        <span id="idMin"></span> Minutes
+        <span id="idTick"></span>
+    </div>
 </div>
