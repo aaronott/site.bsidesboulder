@@ -6,5 +6,5 @@ speaker:
   twitter: ""
   bio: "Angela Hennessy is a member of CenturyLink Black Lotus Labs, where she uses machine learning algorithms to help detect new cyber threats. She has helped build classifiers that identify likely Command and Control servers as well as detecting new threats in our DNS data. Prior to joining CenturyLink, Angela worked for the Department of Defense where she worked on projects related to network security and cryptographic protocols."
   session_title: "Detecting DNS Tunneling"
-  photo:
+  photo: unknown.jpg
   keynote_speaker: False
