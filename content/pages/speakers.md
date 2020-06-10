@@ -5,7 +5,7 @@ draft: false
 url: "/Speakers/"
 ---
 
-We are please to welcome the following speakers to the Inaugral BSidesBoulder.
+We are please to welcome the following speakers to the Inaugural BSidesBoulder.
 
 # Keynote Speakers
 
