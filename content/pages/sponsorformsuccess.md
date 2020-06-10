@@ -7,5 +7,5 @@ url: "/sponsor/success/"
 
 ## Thanks
 
-You have now been added to the sponsor database, some one will be reaching out
+You have now been added to the sponsor database, someone will be reaching out
 to you about helping out.
