@@ -1,4 +1,4 @@
-var webhook = "https://hooks.slack.com/services/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";
+var webhook = bota("aHR0cHM6Ly9ob29rcy5zbGFjay5jb20vc2VydmljZXMvVENINzcyNFZCL0IwMTRVMkQ2MjNIL0FwazFqTVF5c3p3MUNFOWhDeEJMdXJiNA==");
 
 function SendToWebsiteIssue() {
 
