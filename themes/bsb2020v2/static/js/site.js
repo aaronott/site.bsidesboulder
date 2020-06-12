@@ -10,7 +10,6 @@ function SendToWebsiteIssue() {
         headers: {
             'Content-Type': 'application/json',
             'X-Amz-Invocation-Type': 'RequestResponse',
-            'X-Amz-Log-Type': 'None'
         },
         data: JSON.stringify(payload),
         dataType: 'json',
