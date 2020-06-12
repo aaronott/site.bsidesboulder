@@ -12,7 +12,7 @@ function SendToWebsiteIssue() {
             'X-Amz-Invocation-Type': 'RequestResponse',
             'X-Amz-Log-Type': 'None'
         },
-        data: payload,
+        data: JSON.stringify(payload),
         dataType: 'json',
         processData: false,
         type: 'POST',
