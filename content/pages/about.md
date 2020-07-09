@@ -5,6 +5,8 @@ draft: false
 url: "/about/"
 ---
 
+![image of the BSidesBoulder Org Logo](/img/BSidesLogo_org.png)
+
 In case you hadn't heard, we are attempting to bring the BSides Conference to
 Boulder, CO.
 
