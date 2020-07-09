@@ -103,11 +103,22 @@ h1 {
 
 .countdown-clock {
     text-align: center;
+    background-color: #111;
+}
+
+.countdown-clock h1 {
+    color: #e40505;
+    font-family: 'Roboto Mono';
+}
+
+.ccnum {
+    color: #e40505;
 }
 
 .clock {
     font-weight: bolder;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto Mono','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #111;
     font-size: 2em;
 }
 
