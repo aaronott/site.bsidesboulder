@@ -1,7 +1,7 @@
 ---
 title: "Call for Logo"
 date: 2019-09-04T23:11:56-06:00
-draft: false
+draft: true
 url: "/callforlogo/"
 ---
 

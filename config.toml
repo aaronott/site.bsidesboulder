@@ -14,12 +14,6 @@ theme = "bsb2020v2"
     url = "/home/"
     weight = -200
 [[menu.main]]
-    identifier = "callforpapers"
-    name = "Call for Papers"
-    pre = "<i class='fa fa-scroll'></i>"
-    url = "/cfp/"
-    weight = -100
-[[menu.main]]
     identifier = "schedule"
     name = "Schedule"
     pre = "<i class='fa fa-calendar-alt'></i>"

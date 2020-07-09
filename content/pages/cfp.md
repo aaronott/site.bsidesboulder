@@ -1,7 +1,7 @@
 ---
 title: "Call for Papers"
 date: 2019-08-30T17:39:41-06:00
-draft: false
+draft: true
 url: "/cfp/"
 ---
 
