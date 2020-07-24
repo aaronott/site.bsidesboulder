@@ -29,6 +29,20 @@ being a change to make sure that we were fully prepared for that to happen, now
 we have contingency plans in place to make sure that we are going to be able to
 offer you a good experince no matter what happens.
 
+## How you will view it
+
+If you have registered with eventbrite, before the event you will get a link to
+the two streams.  They will be hosted over Youtube so that we make sure we have
+the best oppertunity to get the best quality out to the highest number of
+people.
+
+## How can I participate
+
+So glad that you asked, we will be hosting several channels in the BSidesBoulder
+discord server.  We are going to work to have all of the elements to bring it as
+close to the in person experince as we could get without having actual people in
+a building.
+
 ## Want to Help ?
 
 If you are interested in helping out to make this become a reality... we need
