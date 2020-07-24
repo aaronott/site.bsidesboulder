@@ -26,6 +26,12 @@ theme = "bsb2020v2"
     url = "/Speakers/"
     weight = -100
 [[menu.main]]
+    identifier = "sessions"
+    name = "Sessions"
+    pre = "<i class='fa fa-chalkboard-teacher'></i>"
+    url = "/sessions/"
+    weight = -100
+[[menu.main]]
     identifier = "workshops"
     name = "Workshops"
     pre = "<i class='fa fa-network-wired'></i>"

@@ -1,0 +1,14 @@
+---
+session:
+  name: You're Doing It WRONG! (Aka. a programmatic approach to enterprise security)
+  sessionid: ydiw
+  abstract: |
+    Since 1994, I have broken in to many of the largest companies, governments, and private businesses to help advised my clients on how they are doing it wrong.  This speech will focus on what has worked (and failed) and why I think the entire security industry needs to step back and refocus on what's important.
+  description: |
+    This quick paced, humorous, factual discussion will address many of the challenges and missteps that have led us to the corporate security dumpster fire that is 2020.  Companies continue to do what they are told by overly broad compliance requirements and industry "best practices" that don't address the unique business or their needs.  Millions of dollars are spent each year to check boxes so that the C-levels can say that they did their due diligence.  But the truth is, these business are often assessing less than 10% of their assets and relying on "hacker insurance" when they get owned.  They pay out for identity protection or to settle class action lawsuits, while BILLIONS of people continue lose any expectation of protection, privacy, or anonymity they had.  This is NOT OK and we have to do better. I  will present real world examples, methodologies, and provide a fresh look at how we should be protecting our businesses and clients in a ever increasingly complex world. 
+
+    Over the last 5 years, I have worked closely with a team of industry leaders to create a new methodology and approach to help businesses properly address the unique security needs of the modern enterprise environment. We have built custom security programs to help guide companies to ensure they mature and achieve their goals securely.  We have taken these lessons and created an approach to help companies ensure that their security spend, time, and efforts are focused towards impactful threat and vulnerability mitigation and risk reduction - NOT WASTING TIME AND MONEY DOING THINGS TO CHECK A BOX.  
+
+    This approach focuses on how organizations create, implement, execute, and and move through their security program and ensuring that the efforts address their unique needs.  Businesses can ensure a safer security posture by developing a custom program that is backed by in-depth technical testing, weighted remediation, and conducting in-depth technical briefings and executive workshops to ensure that the security program aligns with the business mission, challenges, and company goals.
+  presenters:
+    - Luke (Pyr0) McOmie
