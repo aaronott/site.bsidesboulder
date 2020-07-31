@@ -3,21 +3,21 @@ session:
   name: "Wild Blue Yonder: Dissecting the BlueKeep Window's Exploit"
   sessionid: wby
   abstract: |
-    Curious how hackers use the latest exploits to gain unauthorized access? This presentation will dissect a real world attack that included one of the first known exploits of the Window’s BlueKeep RDP vulnerability (CVE-2019-0708) in a customer’s environment; as well as other tactics the threat actor used to gather information and attempt to move laterally through the network.
+    Curious how hackers use the latest exploits to gain unauthorized access? This presentation will dissect a real world attack that included one of the first known exploits of the Window's BlueKeep RDP vulnerability (CVE-2019-0708) in a customer's environment; as well as other tactics the threat actor used to gather information and attempt to move laterally through the network.
   description: |
     Threat Analysts are on the front line of the virtual war between defenders and threat actors. They can be a valuable source in identifying new and emerging threats, such as the use of newly released exploits and tools. 
 
-    Hear from Threat Analysts as they provide a comprehensive analysis on one of the first uses of the Window’s BlueKeep vulnerability in a customer’s environment. The artifacts observed in this attack are unique, which is what led to the discovery of the BlueKeep exploitation. Our analysis focuses on the attacker’s methods and gives a full picture of how the attack evolved. 
+    Hear from Threat Analysts as they provide a comprehensive analysis on one of the first uses of the Window's BlueKeep vulnerability in a customer's environment. The artifacts observed in this attack are unique, which is what led to the discovery of the BlueKeep exploitation. Our analysis focuses on the attacker''s methods and gives a full picture of how the attack evolved.
 
-    This in depth walkthrough of how a threat actor gained access to a customer’s environment will dissect each significant action the attacker took in a way the average security or tech enthusiast can understand. 
+    This in depth walkthrough of how a threat actor gained access to a customer's environment will dissect each significant action the attacker took in a way the average security or tech enthusiast can understand.
 
-    Learn about the new Window’s BlueKeep Remote Desktop (RDP) vulnerability, and how it was exploited to gain remote access to the victim’s network. Hear how it was identified by the analysts as they investigated the attack and watched it evolve. 
+    Learn about the new Window's BlueKeep Remote Desktop (RDP) vulnerability, and how it was exploited to gain remote access to the victim's network. Hear how it was identified by the analysts as they investigated the attack and watched it evolve.
 
     In addition to studying the BlueKeep vulnerability exploitation, we will inspect many of the other tactics observed in the incident, including exploitation tools like Koadic, LazyKatz, and Powerline. 
 
     Koadic is a post exploitation tool that uses trusted Microsoft applications to perform nefarious actions, a method used for bypassing application whitelisting. Known as a form of a “Living off the Land” attack, it is an effective and powerful way to attempt to circumvent traditional security controls.
 
-    Powerline is a tool that was created in an effort to covertly run Powershell scripts undetected because it doesn’t call Powershell directly. When coupled with the use of LazyKatz, an attacker has a set of tools that will aid in scraping user credentials and exfiltrating data. 
+    Powerline is a tool that was created in an effort to covertly run Powershell scripts undetected because it doesn't call Powershell directly. When coupled with the use of LazyKatz, an attacker has a set of tools that will aid in scraping user credentials and exfiltrating data.
 
     See what this behavior looks like on an endpoint level to understand why the threat actor took the specific actions they did and how those behaviors tie in to the big picture of the attack. 
 
