@@ -15,6 +15,8 @@ url: "/home/"
 
 Good news everybody....
 
+[Our COVID-19 Updates](/pages/covid19/)
+
 **TL;DR; YES BSIDESBOULDER IS STILL HAPPENING ON OCT 10, 2020**
 
 BSides is coming to Boulder... in spite of the COVID-19.  We are still at it and

@@ -1,0 +1,11 @@
+speaker:
+  first_name: Bo
+  last_name: Pearce
+  title: Senior Consultant
+  company:
+  twitter: ""
+  bio: |
+    From Colorado and was a Computer Science student at CU. Currently working as a Senior Consultant at a Boulder security company.
+  session_title:
+  photo: unknown.jpg
+  keynote_speaker: False

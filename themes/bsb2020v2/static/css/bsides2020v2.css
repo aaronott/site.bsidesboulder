@@ -122,6 +122,10 @@ h1 {
     font-size: 2em;
 }
 
+.speaker-card {
+    height: 600px;
+}
+
 .cover-image {
     background-image: url('/img/cover.png');
     background-size: auto 100%;
@@ -149,6 +153,4 @@ h1 {
     padding-right: 2em;
     white-space: pre-wrap;
     text-align: justify;
-
-
 }

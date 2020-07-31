@@ -8,7 +8,13 @@
                 </div>
                 <div class="session-abstract">{{ if ne .session.abstract "" }}{{.session.abstract}}{{end}}</div>
                 <div class="session-description">{{ if ne .session.description ""}}{{.session.description}}{{ end }}</div>
-                <div class="session-presenters">Presented By: {{if ne .session.presenters ""}}{{.session.presenters}}{{end}}</div>
+                <div class="session-presenters">Presented By:
+                    {{if ne .session.presenters ""}}
+                        {{range .session.presenters }}
+                            <a href="/speakers/#{{urlize .}}">{{ . }}</a>
+                        {{end}}
+                    {{end}}
+                </div>
             </div>
         </div>
     {{ end }}
