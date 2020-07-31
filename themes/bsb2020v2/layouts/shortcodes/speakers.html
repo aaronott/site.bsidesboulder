@@ -12,7 +12,7 @@
                         <h3 class="uk-card-title">{{ .speaker.first_name }} {{.speaker.last_name}}</h3>
                         <p>                
                             <div class="speaker-title">{{if ne .speaker.title ""}}{{ .speaker.title}}, {{end}}{{if ne .speaker.company ""}}{{ .speaker.company }}{{end}}</div>
-                            <div class="speaker-session">Session: {{ .speaker.session_title}}</div>
+                        <div class="speaker-session">Session: <a href="/sessions/#{{urlize .speaker.session_title}}">{{ .speaker.session_title}}</a></div>
                             <div class="speaker-bio">{{.speaker.bio}}</div>
                             {{ if ne .speaker.twitter "" }}
                             <div class="speaker-twitter">Twitter: <a href="https://www.twitter.com/{{.speaker.twitter}}" target="_blank">@{{.speaker.twitter}}</a></div>

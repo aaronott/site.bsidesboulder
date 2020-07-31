@@ -29,14 +29,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc566083-8d39-4db4-b1d7-1183781c7769" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/speakers/pearce_bo.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/pages/home.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/home.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/pages/speakers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/speakers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/speaker/unoptimized/mckee_james.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/speaker/unoptimized/mckee_james.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bsb2020v2/layouts/partials/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bsb2020v2/layouts/partials/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/speakers/pearce_bo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/speakers/pearce_bo.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/bsb2020v2/layouts/shortcodes/scheduletable.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bsb2020v2/layouts/shortcodes/scheduletable.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/bsb2020v2/layouts/shortcodes/sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bsb2020v2/layouts/shortcodes/sessions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/bsb2020v2/layouts/shortcodes/speakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bsb2020v2/layouts/shortcodes/speakers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/bsb2020v2/static/css/bsides2020v2.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/bsb2020v2/static/css/bsides2020v2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596207676941</updated>
       <workItem from="1596207678524" duration="13000" />
-      <workItem from="1596207699480" duration="3478000" />
+      <workItem from="1596207699480" duration="3909000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,6 @@
 <div class="container session-container">
     {{ range $.Site.Data.sessions}}
-        <a name="{{.session.sessionid}}"></a>
+        <a name="{{urlize .session.name}}"></a>
         <div class="uk-card uk-card-default uk-gridcollaps uk-margin">
             <div class="uk-card-body">
                 <div class="session-title">
