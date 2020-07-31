@@ -5,9 +5,9 @@ draft: false
 url: "/about/"
 ---
 
-## About BSidesBoulder 2020
+## About BSidesBoulder Conference
 
-![Image of the BSidesBoulder Logo](/img/BSidesLogo_optimized.png)
+![Image of the BSidesBoulder Logo](/img/BSidesLogo_400.png)
 
 In case you hadn't heard, we are attempting to bring the BSides Conference to
 Boulder, CO.  
