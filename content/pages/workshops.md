@@ -12,7 +12,7 @@ url: "/Workshops/"
 
 ## Overview
 
-The wisdom of “assume breach” has never been more relevant than when we consider the role of threat hunters in proactively identifying threats. Once an attacker has obtained initial access to their target environment, they attempt to evade detection as they work towards their objectives.
+The wisdom of 'assume breach' has never been more relevant than when we consider the role of threat hunters in proactively identifying threats. Once an attacker has obtained initial access to their target environment, they attempt to evade detection as they work towards their objectives.
 
 Threat hunting combines the knowledge and experience of your team with technologies in your environment to create an active capability - one that assumes passive and reactive approaches are flawed, and that perpetually seeks out evidence of malicious activity. By practicing the skills and critical thinking of threat hunters, attendees will be better equipped to detect intrusions earlier and more comprehensively - preventing damage to critical systems or loss of data.
 
