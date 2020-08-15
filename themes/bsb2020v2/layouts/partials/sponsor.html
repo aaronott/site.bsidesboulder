@@ -1,0 +1,18 @@
+<div class="uk-card uk-card-default sponsor-card">
+    <div class="uk-card-media-top sponsor-image-container">
+        <img src="{{ .sponsor.image }}" class="sponsor-image" />
+    </div>
+    <div class="uk-card-body">
+        <div class="sponsor-name">
+            {{ .sponsor.name }}
+        </div>
+        <div class="sponsor-media">
+            <div>
+                <a href="{{ .sponsor.website }}">Website</a>
+            </div>
+            <div>
+                <a href="http://www.twitter.com/{{ .sponsor.twitter }}">Twitter</a>
+            </div>
+        </div>
+    </div>
+</div>

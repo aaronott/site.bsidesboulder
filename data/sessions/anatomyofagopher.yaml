@@ -1,0 +1,16 @@
+---
+session:
+  name: Anatomy of a Gopher - Binary Analysis of Go Binaries
+  sessionid: aoag
+  abstract: |
+    Go is everywhere these days (because Go is awesome). It is now common to find Go binaries embedded in IoT, Edge computing devices, and web assembly applications. However, there are some important differences between C and Go binaries that penetration testers should be aware of when conducting binary analysis and reverse engineering of Go applications. In this talk, we will highlight those differences, identify what makes Go binaries unique, and recommend approaches to reverse Go applications with tools like Radare2 and Binary Ninja. The proposed approach will help penetration testers and anyone interested in reverse engineering Go binaries conduct a faster and more effective analysis of Go application.
+  description: |
+    Go is everywhere these days (because Go is awesome). It is now common to find Go binaries embedded in IoT, Edge computing devices, and web assembly applications. However, there are some important differences between C and Go binaries that penetration testers should be aware of when conducting binary analysis and reverse engineering of Go applications. In this talk, we will highlight those differences, identify what makes Go binaries unique, and recommend approaches to reverse Go applications with tools like Radare2 and Binary Ninja. The proposed approach will help penetration testers, and anyone interested in reverse engineering Go binaries conduct a faster and more effective analysis of Go application. The goal will be to:
+
+    - Identify protections added by the Go compiler
+    - Learn how Go compiles loops, goroutines, conditional statements, and other common functions
+    - Learn what makes the analysis of Go binaries different than C binaries
+    - Learn what to look for when obtaining Go binaries during penetration tests
+    - Identify ways in which Go binaries can and should be protected
+  presenters:
+    - Luke (Pyr0) McOmie

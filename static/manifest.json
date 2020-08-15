@@ -1,0 +1,14 @@
+{
+    "name": "BSides Boulder 2020",
+    "short_name": "BSB 2020",
+    "icons": [ {
+        "src" : "/img/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "start_url": "/home/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#FF0000",
+    "theme_color": "#FF0000"
+}

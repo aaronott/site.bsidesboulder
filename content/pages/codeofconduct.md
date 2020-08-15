@@ -5,14 +5,12 @@ draft: false
 url: "/codeofconduct/"
 ---
 
-## BSides Boulder Code of Conduct
-
 We have ZERO TOLERANCE for harassment of any kind, be it physical, verbal, or sexual.
 
 We strive to create an environment that encourages the free and open sharing of
-ideas. We’ve created a home at BSides Boulder and have invited you all inside
+ideas. We've created a home at BSides Boulder and have invited you all inside
 to be inspired and educated. It is impossible to keep the free and open sharing
-of ideas without risking someone getting their feelings hurt. We don’t expect
+of ideas without risking someone getting their feelings hurt. We don't expect
 adult and professional behavior at all times; a little mischief can be fun. We
 do however, expect you to be respectful of our space and our other invited
 guests.
@@ -36,7 +34,9 @@ steps for you to feel safe and ensure your concerns are promptly addressed. This
 could include any or all of the following: contacting hotel security, local law
 enforcement, or other emergency services as needed.
 
-TL;DR Do not be an ass or we will kick your ass out, and we’re the final
+<hr>
+
+**TL;DR** Do not be an ass or we will kick your ass out, and we're the final
 arbitrators of what being an ass means.
 
 * Lovingly stolen from the BSides Las Vegas with minor alterations.

@@ -12,4 +12,4 @@ BSidesBoulder would to Thank the Following People for thier special
 contributions to making this event a success:
 
 * Katrina Lamb
-* Garret Schumacher
+* Garrett Schumacher

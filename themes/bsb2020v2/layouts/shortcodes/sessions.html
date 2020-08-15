@@ -1,0 +1,21 @@
+<div class="container session-container">
+    {{ range $.Site.Data.sessions}}
+        <a name="{{urlize .session.name}}"></a>
+        <div class="uk-card uk-card-default uk-gridcollaps uk-margin">
+            <div class="uk-card-body">
+                <div class="session-title">
+                    {{.session.name}}
+                </div>
+                <div class="session-abstract">{{ if ne .session.abstract "" }}{{.session.abstract}}{{end}}</div>
+                <div class="session-description">{{ if ne .session.description ""}}{{.session.description}}{{ end }}</div>
+                <div class="session-presenters">Presented By:
+                    {{if ne .session.presenters ""}}
+                        {{range .session.presenters }}
+                            <a href="/speakers/#{{urlize .}}">{{ . }}</a>
+                        {{end}}
+                    {{end}}
+                </div>
+            </div>
+        </div>
+    {{ end }}
+</div>

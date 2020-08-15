@@ -1,0 +1,13 @@
+speaker:
+  first_name: Luke (Pyr0)
+  last_name: McOmie
+  title: ""
+  company: ""
+  twitter: "lmcomie"
+  bio: |
+    Senior security leader with 20+ years of experience guiding security professionals within Fortune 100 enterprises to start ups, federal agencies, and both private and public-sector organizations to better secure their organizations. Highly skilled in developing and executing enterprise security strategies, leading technical and tactical programs, with the goal of helping organizations understand their security challenges and mitigating the risks that threaten the modern business and operating environment.
+
+    Directed research groups, labs teams, risk and compliance programs, and red teams. Possess a demonstrated mastery of ethical hacking, penetration testing, social engineering, physical security, security assessments and incident response. Prolific industry thought leader; widely published in media, video, television, and public speaking forums.
+  session_title: "You're Doing It WRONG! (Aka. a programmatic approach to enterprise security)"
+  photo: Luke-Yeti-Pic.jpeg
+  keynote_speaker: False

@@ -1,0 +1,27 @@
+
+<script>
+    setInterval(function() {
+        var eventdate = new Date("Oct 10, 2020 08:00:00").getTime();
+        var datetime = new Date().getTime();
+        var timeleft = eventdate - datetime;
+        
+        var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
+        
+        document.getElementById("idDays").innerHTML = days;
+        document.getElementById("idHours").innerHTML = hours;
+        document.getElementById("idMin").innerHTML = minutes;
+    }, 1000)
+</script>
+
+<div class="countdown-clock">
+    <h1>Time Till BSides Boulder 2020</h1>
+    <div class="clock">
+        <span id="idDays" class="ccnum"></span> Days
+        <span id="idHours" class="ccnum"></span> Hours
+        <span id="idMin" class="ccnum"></span> Minutes
+        <span id="idTick" class="ccnum"></span>
+    </div>
+</div>

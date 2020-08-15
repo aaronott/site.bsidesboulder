@@ -1,5 +1,5 @@
 ---
-title: "COVID-19"
+title: "COVID-19 Status Page"
 date: 2020-03-13T09:33:35-06:00
 draft: false
 url: ""
@@ -21,6 +21,8 @@ Stay Safe,
 The BSidesBoulder Team.
 
 -----
+
+Original Message:
 
 With the recent outbreak of COVID-19, especially since there is now at least one confirmed case in Boulder, the BSides Boulder planning team has made the difficult decision to postpone the event. Please understand that this was not an easy, or unanimous decision and it was very much debated, but in the end our goal is to put on a quality event with good content and great people. The choices we debated were between postponement and doing a 100% virtual event. Up to this point the planning team, and volunteers joining the planning meetings, have been focused on an in person event and we feel that it would be a disservice to make an attempt to pivot this late in the game to a virtual event.
 

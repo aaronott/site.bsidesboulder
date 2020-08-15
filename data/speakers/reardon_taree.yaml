@@ -1,0 +1,10 @@
+speaker:
+  first_name: Taree
+  last_name: Reardon
+  title: Senior Threat Analyst Shift Lead
+  company: VMWare Carbon Black
+  twitter: ThreatHuntress
+  bio: "As a Senior Threat Analyst Shift Lead with VMware Carbon Black, Taree Reardon has been fascinated with identifying and dissecting new and emerging threats. Taree particularly enjoys endpoint detection and incident response and she recently became a GIAC certified Incident Handler. Outside of security, Taree enjoys spending time with her husband and cat, gaming, and has an unhealthy love of karaoke."
+  session_title: "Wild Blue Yonder: Dissecting the BlueKeep Window's Exploit"
+  photo: Taree_Reardon_Headshot.png
+  keynote_speaker: False

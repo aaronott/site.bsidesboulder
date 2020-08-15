@@ -1,0 +1,27 @@
+<html lang="en-US">
+    <head>
+        {{ partial "head" . }}
+        {{ partial "styles" . }}
+        {{ partial "googleanalytics" . }}
+    </head>
+    <body>
+       
+        <div class="page-container"></div>
+        {{ partial "header" . }}
+        {{ partial "navbar" . }}
+
+        
+            <div class="uk-container">
+                <article class="uk-article">
+                    <h1 class="uk-article-title">{{.Title}}</h1>
+                    <p class="uk-article-meta">
+                        {{ .Content }}
+                    </p>
+                </article>
+            </div>    
+        </div>
+        
+        {{ partial "footer" . }}
+        {{ partial "scripts" . }}
+    </body>
+</html>
