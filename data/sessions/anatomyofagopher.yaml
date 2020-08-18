@@ -13,4 +13,4 @@ session:
     - Learn what to look for when obtaining Go binaries during penetration tests
     - Identify ways in which Go binaries can and should be protected
   presenters:
-    - Luke (Pyr0) McOmie
+    - Alex Useche / hex0punk
