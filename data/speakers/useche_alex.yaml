@@ -1,11 +1,11 @@
 speaker:
   first_name: Alex
-  last_name: Useche
-  title: Senior Security Consultant
-  company: nVisium
+  last_name: Useche / hex0punk
+  title: Application Security Engineer
+  company: Trail of Bits
   twitter: ""
   bio: |
-    Alex is an Application Senior Security Consultant at nVisium with over 13 years of experience in the IT industry as a software developer, security engineer, and penetration tester. As a software developer, he has worked and architected mobile and web applications in a wide range of languages and frameworks, including .NET, Django, Objective C and Go. While his expertise is in application security, Alex also has experience conducting penetration tests of internal and external networks. In his previous position, Alex led several projects aimed at building secure coding and DevOps processes for a mid-sized consultancy agency, as well as automating security analysis tasks. Alex has a Bachelors in Information Technology and a Masters in Software Engineering. He has also conducted and published research on artificial intelligence technologies. Alex is actively working on developing security tools written in Go and participating in various bug bounties.
+    Alex is an Application Security Engineer at Trail of Bits with over 14 years of experience in the IT industry as a software developer, security engineer, and penetration tester. As a software developer, he has worked and architected mobile and web applications in a wide range of languages and frameworks, including .NET, Django, Objective C and Go. While his expertise is in application security, Alex also has experience conducting penetration tests of internal and external networks. In his previous position, Alex focused on IoT, mobile, and web penetration tests. Alex has a Bachelors in Information Technology and a Masters in Software Engineering. He has also conducted and published research on artificial intelligence technologies. Alex is actively working on Go security research and developing binary analysis tools with Rust.
   session_title: Anatomy of a Gopher - Binary Analysis of Go Binaries
   photo: useche_alex.jpg
   keynote_speaker: False
